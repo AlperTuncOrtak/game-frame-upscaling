@@ -1,0 +1,5 @@
+venv/
+data/
+results/crops/
+__pycache__/
+.DS_Store
